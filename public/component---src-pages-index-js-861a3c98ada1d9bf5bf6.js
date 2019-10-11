@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{190:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),o=t(192);n.default=function(){return r.a.createElement("div",null,r.a.createElement(o.a,{headerText:"Coleman Defense Solutions Coming Soon!"}))}},192:function(e,n,t){"use strict";var a=t(0),r=t.n(a);n.a=function(e){return r.a.createElement("div",null,r.a.createElement("h1",null,e.headerText))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-861a3c98ada1d9bf5bf6.js.map
